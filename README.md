@@ -147,18 +147,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## Screenshots 📸
 
-[Your existing screenshots here]
-
-## Acknowledgments 🙏
-
-- React Icons
-- Tailwind CSS
-- Framer Motion
-- Google Generative AI
-```
-
-
-
 ![image](https://github.com/user-attachments/assets/fb010ce4-58f0-4c68-ba3c-e11348c13d2f)
 
 ![image](https://github.com/user-attachments/assets/ee1dff3a-4627-49ac-bf6d-4687cc29b69c)
@@ -172,4 +160,16 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 
 ![image](https://github.com/user-attachments/assets/be644e0b-dbd7-499b-8b30-e86b5f6534c4)
+
+## Acknowledgments 🙏
+
+- React Icons
+- Tailwind CSS
+- Framer Motion
+- Google Generative AI
+```
+
+
+
+
 
